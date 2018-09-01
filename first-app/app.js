@@ -86,6 +86,7 @@ Basically, debugging is going to easier if you use constant.
 const log = require('./logger');
 console.log(log)
 log('message');
+const
 // result : TypeError: Assignment to constant variable.
 
 
